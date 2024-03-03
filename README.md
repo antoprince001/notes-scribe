@@ -1,6 +1,6 @@
 # Notes-Scribe
 
-This FastAPI web application leverages Open source LLMs (Large Language Model) using Ollama and LlamaIndex to build a RAG (Retrieval-Augmented Generation) knowledge base on top of notes taken. It provides endpoints for interacting with the knowledge base to get responses to user queries.
+This FastAPI web application leverages Open source LLMs (Large Language Model) using Ollama and LlamaIndex to build a RAG (Retrieval-Augmented Generation) framework using user notes as knowledge base. It provides endpoints for interacting with the knowledge base to get responses to user queries.
 
 ## Tech Stack
 
